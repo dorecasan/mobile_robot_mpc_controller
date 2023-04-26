@@ -8,3 +8,4 @@ This code contains the implementation of Model Predictive Controller for a Mobil
 2. The controller is integrated to TEB local planner in ROS framework to track the local path of TEB.
 
 ## Results
+![Control diagram](figure3.png)
