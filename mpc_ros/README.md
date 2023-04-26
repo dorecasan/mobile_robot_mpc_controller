@@ -42,7 +42,7 @@ $ catkin_make
 ```
 
 ## Run
-For robot simulator, please visit [VAST robot](https://github.com/duynamrcv/vast_robot).
+For robot simulator, please visit [VAST robot](https://github.com/dorecasan/mobile_robot_mpc_controller/tree/main/vast_robot).
 ```
 # Open robot simulator
 $ roslaunch vast_gazebo robot.launch
